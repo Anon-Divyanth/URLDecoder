@@ -7,10 +7,13 @@ Short url. This tool is useful for protecting phishing attacks and
 and Social Engineering attacks 
 
 # Installation:
-** git clone https://github.com/Anon-Divyanth/URLDecoder
-** cd URLDecoder
-** pip install -r requirements.txt
-** python urldecoder.py
+**git clone https://github.com/Anon-Divyanth/URLDecoder
+
+**cd URLDecoder
+
+**pip install -r requirements.txt
+
+**python urldecoder.py
 
 # Description:
 This tool is protecting us from Social Engineering 
